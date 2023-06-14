@@ -1,0 +1,3 @@
+[submodule "simplecomputer"]
+	path = simplecomputer
+	url = git@git.csc.sibsutis.ru:is142s10/simplecomputer.git
